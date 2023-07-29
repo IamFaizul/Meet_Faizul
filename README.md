@@ -1,1 +1,1 @@
-# Meet_Faizul
+📌 Hi, I am Faizul, a dedicated individual with a strong inclination towards the field of Machine Learning and Data Science. My interests lie in exploring data, applying algorithms, and harnessing the power of data-driven insights.With a persistent dedication to continuous learning and progress in this ever-evolving domain, I am enthusiastic about creating a meaningful influence through my contributions in Data Science.
